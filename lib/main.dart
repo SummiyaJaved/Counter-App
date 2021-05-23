@@ -45,7 +45,7 @@ class _HomeScreenState extends State<HomeScreen>{
               ),
               Text(
                 '$counter',
-                style: TextStyle(fontSize: 40, fontWeight:FontWeight.bold),
+                style: TextStyle(fontSize: 50, fontWeight:FontWeight.bold),
               )
             ],
 
